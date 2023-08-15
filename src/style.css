@@ -1,0 +1,20 @@
+/* src/styles.css */
+
+/* Global styles */
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+.btn-gap {
+  margin-right: 10px;
+}
+.upload{
+  margin-top: 50px;
+}
+.tab {
+  margin-top: 15px;
+}
+.add-product-form{
+  margin-top: 50px;
+}
